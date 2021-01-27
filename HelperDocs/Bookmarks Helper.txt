@@ -1,6 +1,11 @@
 Bookmarks Helper
 
+Thoughts
+    -I could switch this to gh-pages to host it, not sure what the benefit is
+    
+
 https://www.w3schools.com/colors/colors_picker.asp
+
 
 Colors
 
