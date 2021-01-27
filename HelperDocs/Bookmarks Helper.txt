@@ -1,0 +1,252 @@
+Bookmarks Helper
+
+https://www.w3schools.com/colors/colors_picker.asp
+
+Colors
+
+    rose
+    peach
+    mustard
+    peacock
+    teal
+    green
+    grey
+    plum
+    brunette
+    scarlet
+    white
+
+
+NEEDED ICONS
+Google
+pinterest
+
+
+
+<li><a class="deere-icon" href="no-link">EMPTY</a></li>
+<li><a class="deere-icon" href="no-link">EMPTY</a></li>
+<li><a class="default-icon.folder-icon" href="no-link">EMPTY</a></li>
+<li><a class="settings-icon" href="no-link">EMPTY</a></li>
+<li><a class="some-icon" href="no-link">EMPTY</a></li>
+<li><a class="kibana-icon" href="no-link">EMPTY</a></li>
+<li><a class="kibana-icon-dark" href="no-link">EMPTY</a></li>
+<li><a class="kubernetes-icon " href="no-link">EMPTY</a></li>
+<li><a class="flink-icon " href="no-link">EMPTY</a></li>
+<li><a class="grafana-icon " href="no-link">EMPTY</a></li>
+<li><a class="prometheus-icon " href="no-link">EMPTY</a></li>
+<li><a class="hdfs-icon " href="no-link">EMPTY</a></li>
+<li><a class="kibana2-icon" href="no-link">EMPTY</a></li>
+<li><a class="github-icon" href="no-link">EMPTY</a></li>
+<li><a class="mongodb-icon" href="no-link">EMPTY</a></li>
+<li><a class="hp-icon" href="no-link">EMPTY</a></li>
+<li><a class="x-matters-icon" href="no-link">EMPTY</a></li>
+<li><a class="amazon-icon" href="no-link">EMPTY</a></li>
+<li><a class="aws-icon" href="no-link">EMPTY</a></li>
+<li><a class="aws-qual-icon" href="no-link">EMPTY</a></li>
+<li><a class="aws-cert-icon" href="no-link">EMPTY</a></li>
+<li><a class="aws-prod-icon" href="no-link">EMPTY</a></li>
+<li><a class="aws-services-icon" href="no-link">EMPTY</a></li>
+<li><a class="artifactory-icon" href="no-link">EMPTY</a></li>
+<li><a class="jenkins-icon" href="no-link">EMPTY</a></li>
+<li><a class="rally-icon" href="no-link">EMPTY</a></li>
+<li><a class="flowdock-icon" href="no-link">EMPTY</a></li>
+<li><a class="power-point-icon" href="no-link">EMPTY</a></li>
+<li><a class="third-party-app-icon" href="no-link">EMPTY</a></li>
+<li><a class="trello-icon" href="no-link">EMPTY</a></li>
+<li><a class="library-search-icon" href="no-link">EMPTY</a></li>
+<li><a class="slingshot-icon" href="no-link">EMPTY</a></li>
+<li><a class="health-icon" href="no-link">EMPTY</a></li>
+<li><a class="version-icon" href="no-link">EMPTY</a></li>
+<li><a class="food-icon" href="no-link">EMPTY</a></li>
+<li><a class="cloudwatch-icon" href="no-link">EMPTY</a></li>
+
+old Colors
+
+
+            .rose {
+                border: 1px solid #e27d60;
+            }
+
+            .rose > h3 {
+                background: #e27d60;
+                color: #fff;
+            }
+
+            .rose ul > li:hover {
+                background-color: #f7dcd4;
+            }
+
+            .rose .collapsable:before {
+                background-image: linear-gradient(to right, rgba(234,89,89,0) 0, rgba(226,125,96,1) 3em);
+            }
+
+            .peach {
+                border: 1px solid #f6a192;
+            }
+
+            .peach > h3 {
+                background: #f6b092;
+                color: #fff;
+            }
+
+            .peach ul > li:hover {
+                background-color: #f6c492;
+            }
+
+            .peach .collapsable:before {
+                background-image: linear-gradient(to right, rgba(246,176,146,0) 0, rgba(246,176,146,1) 3em);
+            }
+
+            .mustard {
+                border: 1px solid #a07300;
+            }
+
+            .mustard > h3 {
+                background: #b68c00;
+                color: #fff;
+            }
+
+            .mustard ul > li:hover {
+                background-color: #d9ca77;
+            }
+
+            .mustard .collapsable:before {
+                background-image: linear-gradient(to right, rgba(182,140,0,0) 0, rgba(182,140,0,1) 3em);
+            }
+
+            .peacock {
+                border: 1px solid #468bbf;
+            }
+
+            .peacock > h3 {
+                background: #79b9ea;
+                color: #fff;
+            }
+
+            .peacock ul > li:hover {
+                background-color: #aae0ff;
+            }
+
+            .peacock .collapsable:before {
+                background-image: linear-gradient(to right, rgba(121,185,234,0) 0, rgba(121,185,234,1) 3em);
+            }
+
+            .teal {	
+                border: 1px solid #808080;	
+            }	
+            .teal > h3 {	
+                 background: #18d0f5;	
+                color: #000000;	
+            }	
+
+            .green {
+                border: 1px solid #1c702d;
+            }
+
+            .green > h3 {
+                background: #2a803b;
+                color: #fff;
+            }
+
+            .green ul > li:hover {
+                background-color: #6bce6b;
+            }
+
+            .green .collapsable:before {
+                background-image: linear-gradient(to right, rgba(42,128,59,0) 0, rgba(42,128,59,1) 3em);
+            }
+
+            .grey {
+                border: 1px solid #808080;
+            }
+
+            .grey > h3 {
+                background: #8D7F8D;
+                color: #fff;
+            }
+
+            .grey ul > li:hover {
+                background-color: #97888F;
+            }
+
+            .grey .collapsable:before {
+                background-image: linear-gradient(to right, rgba(141,127,141,0) 0, rgba(141,127,141,1) 3em);
+            }
+
+            .plum {
+                border: 1px solid #760b70;
+            }
+
+            .plum > h3 {
+                background: #9e26aa;
+                color: #fff;
+            }
+
+            .plum ul > li:hover {
+                background-color: #d68adf;
+            }
+
+            .plum .collapsable:before {
+                background-image: linear-gradient(to right, rgba(158,38,170,0) 0, rgba(158,38,170,1) 3em);
+            }
+
+            .brunette {
+                border: 1px solid #241712;
+            }
+
+            .brunette > h3 {
+                background: #573428;
+                color: #fff;
+            }
+
+            .brunette ul > li:hover {
+                background-color: #be8573;
+            }
+
+            .brunette .collapsable:before {
+                background-image: linear-gradient(to right, rgba(87,52,40,0) 0, rgba(87,52,40,1) 3em);
+            }
+
+            .scarlet {
+                border: 1px solid #7f0400;
+            }
+
+            .scarlet > h3 {
+                background: #ff0900;
+                color: #fff;
+            }
+
+            .scarlet ul > li:hover {
+                background-color: #ff534c;
+            }
+
+            .scarlet .collapsable:before {
+                background-image: linear-gradient(to right, rgba(255,9,0,0) 0, rgba(255,9,0,1) 3em);
+            }
+
+            .white {
+                border: 1px solid #000;
+            }
+
+            .white > h3 {
+                background: #000;
+                color: #fff;
+            }
+
+            .white ul > li:hover {
+                background-color: #000;
+                color: #fff;
+            }
+
+            .white ul > li:hover a {
+                color: #fff;
+            }
+
+            .white .collapsable:before {
+                background-image: linear-gradient(to right, rgba(0,0,0,0) 0, rgba(0,0,0,1) 3em);
+            }
+
+            .white .collapsable:hover:after {
+                color: #fff;
+            }
+
